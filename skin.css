@@ -112,7 +112,7 @@ header #header-bar>.row {
 }
 
 #main .menu-wrapper>.header {
-	background: linear-gradient(200deg, #ffc572d6 1%,#ffe4bfb3 30%,#ffce8cb5 80% ,#f38a008a 100%);
+	background: linear-gradient(200deg, #ffc572d6 1%,#fb7d00b3 30%,#ffce8cb5 80% ,#f38a008a 100%);
 	border-radius: 10px 10px 0 0;
 }
 
